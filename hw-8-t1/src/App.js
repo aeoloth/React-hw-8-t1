@@ -6,8 +6,8 @@ import City from "./City";
 function App(props) {
   return (
     <div>
-      <CitiesList />
       <City />
+      <CitiesList />
     </div>
   );
 }
